@@ -19,10 +19,6 @@
 | [razorpay/razorpay-mcp-server](https://github.com/razorpay/razorpay-mcp-server) | ![GitHub Repo stars](https://img.shields.io/github/stars/razorpay/razorpay-mcp-server?style=social) | Razorpay's Official MCP Server | Razorpay 官方 MCP 服务器 |
 | [VAST-AI-Research/tripo-mcp](https://github.com/VAST-AI-Research/tripo-mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/VAST-AI-Research/tripo-mcp?style=social) | Official MCP server for Tripo | Tripo 官方 MCP 服务器 |
 
-### 🎖️ Official Integrations
-
-Official integrations are maintained by companies building production ready MCP servers for their platforms.
-
 - <img height="12" width="12" src="https://www.21st.dev/favicon.ico" alt="21st.dev Logo" /> **[21st.dev Magic](https://github.com/21st-dev/magic-mcp)** - Create crafted UI components inspired by the best 21st.dev design engineers.
 - <img height="12" width="12" src="https://invoxx-public-bucket.s3.eu-central-1.amazonaws.com/frontend-resources/adfin-logo-small.svg" alt="Adfin Logo" /> **[Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin)** - The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations with [Adfin](https://www.adfin.com/).
 - <img height="12" width="12" src="https://www.agentql.com/favicon/favicon.png" alt="AgentQL Logo" /> **[AgentQL](https://github.com/tinyfish-io/agentql-mcp)** - Enable AI agents to get structured data from unstructured web with [AgentQL](https://www.agentql.com/).
@@ -185,4 +181,3 @@ Official integrations are maintained by companies building production ready MCP 
 - <img height="12" width="12" src="https://www.yugabyte.com/favicon-16x16.png" alt="YugabyteDB Logo" /> **[YugabyteDB](https://github.com/yugabyte/yugabytedb-mcp-server)** -  MCP Server to interact with your [YugabyteDB](https://www.yugabyte.com/) database
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> **[Zapier](https://zapier.com/mcp)** - Connect your AI Agents to 8,000 apps instantly.
 - **[ZenML](https://github.com/zenml-io/mcp-zenml)** - Interact with your MLOps and LLMOps pipelines through your [ZenML](https://www.zenml.io) MCP server
-
