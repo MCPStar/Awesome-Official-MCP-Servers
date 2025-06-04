@@ -1,9 +1,3 @@
-# Awesome-MCP-Servers-zh
-
-本项目收集互联网上官方发布的优质 MCP 服务器（MCP Servers），方便查阅。
-
-## 官方 MCP 服务器列表
-
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
