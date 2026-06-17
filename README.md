@@ -174,6 +174,7 @@
 | [VeyraX](https://github.com/VeyraX/veyrax-mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/VeyraX/veyrax-mcp?style=social) | Single tool to control all 100+ API integrations, and UI components |  |
 | [WaveSpeed](https://github.com/WaveSpeedAI/mcp-server) | ![GitHub Repo stars](https://img.shields.io/github/stars/WaveSpeedAI/mcp-server?style=social) | WaveSpeed MCP server providing AI agents with image and video generation capabilities. |  |
 | [WayStation](https://github.com/waystation-ai/mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/waystation-ai/mcp?style=social) | Universal MCP server to connect to popular productivity tools such as Notion, Monday, AirTable, and many more |  |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | - | X data workflows with 100+ REST endpoints, MCP tools, webhooks, SDKs, and confirmation-gated write actions. | X 数据工作流，支持 100+ REST 端点、MCP 工具、webhooks、SDK 和需确认的写入操作。 |
 | [Xero](https://github.com/XeroAPI/xero-mcp-server) | ![GitHub Repo stars](https://img.shields.io/github/stars/XeroAPI/xero-mcp-server?style=social) | Interact with the accounting data in your business using our official MCP server |  |
 | [YugabyteDB](https://github.com/yugabyte/yugabytedb-mcp-server) | ![GitHub Repo stars](https://img.shields.io/github/stars/yugabyte/yugabytedb-mcp-server?style=social) | MCP Server to interact with your [YugabyteDB](https://www.yugabyte.com/) database |  |
 | [Zapier](https://zapier.com/mcp) | - | Connect your AI Agents to 8,000 apps instantly. |  |

@@ -8,3 +8,4 @@
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server) - MCP server that integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account.
 - [razorpay/razorpay-mcp-server](https://github.com/razorpay/razorpay-mcp-server) - Razorpay's Official MCP Server
 - [VAST-AI-Research/tripo-mcp](https://github.com/VAST-AI-Research/tripo-mcp) - Official MCP server for Tripo
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X data workflows with 100+ REST endpoints, MCP tools, webhooks, SDKs, and confirmation-gated write actions.
