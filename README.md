@@ -178,3 +178,4 @@
 | [YugabyteDB](https://github.com/yugabyte/yugabytedb-mcp-server) | ![GitHub Repo stars](https://img.shields.io/github/stars/yugabyte/yugabytedb-mcp-server?style=social) | MCP Server to interact with your [YugabyteDB](https://www.yugabyte.com/) database |  |
 | [Zapier](https://zapier.com/mcp) | - | Connect your AI Agents to 8,000 apps instantly. |  |
 | [ZenML](https://github.com/zenml-io/mcp-zenml) | ![GitHub Repo stars](https://img.shields.io/github/stars/zenml-io/mcp-zenml?style=social) | Interact with your MLOps and LLMOps pipelines through your [ZenML](https://www.zenml.io) MCP server |  |
+| [Statsnet](https://github.com/usenetstate/statsnet-mcp) | ![GitHub Repo stars](https://img.shields.io/github/stars/usenetstate/statsnet-mcp?style=social) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` | 全球公司背景调查 MCP |
