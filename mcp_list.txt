@@ -1,3 +1,4 @@
+- [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) - Nuanu AI-maintained local stdio payment tools for x402 offers, bounded preparation, status and receipts; Apple Silicon macOS and Node 24 only.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
